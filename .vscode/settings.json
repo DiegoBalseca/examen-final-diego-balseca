@@ -2,7 +2,6 @@
     "files.exclude": {
         "**/.DS_Store": true,
         "**/.git": true,
-        "**/.gitignore": true,
         "**/.gitmodules": true,
         "**/*.booproj": true,
         "**/*.pidb": true,
@@ -52,5 +51,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "3D1_M06UF2_Examen.sln"
+    "dotnet.defaultSolution": "examen-final-diego-balseca.sln"
 }
